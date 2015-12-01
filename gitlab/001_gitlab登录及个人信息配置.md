@@ -1,5 +1,5 @@
 1. 登录、配置gitlab setting、添加SSH KEY  
-输入网址 http://gitlab.iduoku.cn/ 使用LDAP的登陆方式，输入自己的域账号用户名和密码登陆gitlab
+输入网址 http://gitlab.iduoku.cn/ 使用LDAP的登陆方式，输入自己的域账号用户名和密码登陆gitlab  
 ![webhook1](http://gitlab.iduoku.cn/QA/firstStation/raw/master/article-img/gitlab/webhook1.png)  
 登陆后
 
