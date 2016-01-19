@@ -2,10 +2,10 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-  - [安装过程](#%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B)
+    - [安装过程](#)
 - [Android](#android)
 - [Dev](#dev)
-  - [troubleshooting](#troubleshooting)
+    - [troubleshooting](#troubleshooting)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
