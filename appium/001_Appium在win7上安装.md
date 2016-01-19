@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [上方的命令不成功，可以通过下方的命令尝试](#%E4%B8%8A%E6%96%B9%E7%9A%84%E5%91%BD%E4%BB%A4%E4%B8%8D%E6%88%90%E5%8A%9F%EF%BC%8C%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E4%B8%8B%E6%96%B9%E7%9A%84%E5%91%BD%E4%BB%A4%E5%B0%9D%E8%AF%95)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 **1. Appium**
 
 Appium是CS架构设计，通过client端发送RESTful API命令给server，server转换成对应测试平台的指令，触发操作，同时收集操作后的返回结果，响应给client端。

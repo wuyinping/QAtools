@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+  - [安装过程](#%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B)
+- [Android](#android)
+- [Dev](#dev)
+  - [troubleshooting](#troubleshooting)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## 安装过程
 
 1. 安装ubuntu14.04

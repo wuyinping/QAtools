@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [安装完需要source一下rvm的脚本](#%E5%AE%89%E8%A3%85%E5%AE%8C%E9%9C%80%E8%A6%81source%E4%B8%80%E4%B8%8Brvm%E7%9A%84%E8%84%9A%E6%9C%AC)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 1. 源码启动  
 进入appium目录，执行命令`node .`
 
