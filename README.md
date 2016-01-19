@@ -37,8 +37,10 @@
   * 第二天收到HR发送到个人邮箱的ERP账号，登陆ERP系统，修改密码，此密码也是办公邮箱密码
   * 配置OutLook或者Foxmail(登陆密码是ERP密码)
   * 申请[bug系统](http://iku.iduoku.cn/) - **禅道**的权限，找**董文**添加权限(登陆密码是开机密码，即LDAP密码)
-  * 申请[doc系统](http://doc.iduoku.cn/) - **Atlassian Confluence**的权限，找**董文**添加权限(登陆密码是开机密码，即LDAP密码)
+  * 申请[doc系统](http://doc.iduoku.cn/) - **Atlassian Confluence**的权限，找**OP-任晓冲**添加权限(登陆密码是开机密码，即LDAP密码)
+  * 申请[task系统](http://task.iduoku.cn/) - **Atlassian JIRA**的权限，找**OP-任晓冲**添加权限(登陆密码是开机密码，即LDAP密码)
   * 申请[版本控制系统](http://gitlab.iduoku.cn/) - **gitlab**的权限，找**孙国磊**添加权限(登陆密码是开机密码，即LDAP密码)
+  * 百度Hi加入如下群组 - 百度移动游戏QA(1472530)、百度移动游戏-技术群(1368996 向靳顺隆申请加入)、百度移动游戏(1424316)、百度移动游戏-北区(1361397)
 
 ## 项目介绍
 
