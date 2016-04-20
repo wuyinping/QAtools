@@ -2,8 +2,8 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [1. 项目开发](#1-%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91)
-- [2. 提交代码](#2-%E6%8F%90%E4%BA%A4%E4%BB%A3%E7%A0%81)
+- [1. 项目开发](#1)
+- [2. 提交代码](#2)
 - [3. merge request](#3-merge-request)
 - [4. Merge Requests list](#4-merge-requests-list)
 
