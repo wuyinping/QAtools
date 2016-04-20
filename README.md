@@ -10,7 +10,7 @@
     - [客户端测试](#)
     - [Web测试](#web)
     - [Jenkins文档](#jenkins)
-        - [[001_jenkins迁移]()](#001_jenkins)
+        - [[001_jenkins迁移](http://gitlab.iduoku.cn/QA/firstStation/blob/master/jenkins/001_jenkins%E8%BF%81%E7%A7%BB.md)](#001_jenkins)
     - [Gitlab文档](#gitlab)
         - [[001_gitlab登录及个人信息配置](http://gitlab.iduoku.cn/QA/firstStation/blob/master/gitlab/001_gitlab%E7%99%BB%E5%BD%95%E5%8F%8A%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E9%85%8D%E7%BD%AE.md)](#001_gitlab)
         - [[002_gitlab创建项目和配置webhook](http://gitlab.iduoku.cn/QA/firstStation/blob/master/gitlab/002_gitlab%E5%88%9B%E5%BB%BA%E9%A1%B9%E7%9B%AE%E5%92%8C%E9%85%8D%E7%BD%AEwebhook.md)](#002_gitlab-webhook)
