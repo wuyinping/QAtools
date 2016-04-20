@@ -52,7 +52,7 @@
 ## Web测试
 
 ## Jenkins文档
-### [001_jenkins迁移]()
+### [001_jenkins迁移](http://gitlab.iduoku.cn/QA/firstStation/blob/master/jenkins/001_jenkins%E8%BF%81%E7%A7%BB.md)
 
 ## Gitlab文档
 ### [001_gitlab登录及个人信息配置](http://gitlab.iduoku.cn/QA/firstStation/blob/master/gitlab/001_gitlab%E7%99%BB%E5%BD%95%E5%8F%8A%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E9%85%8D%E7%BD%AE.md)
