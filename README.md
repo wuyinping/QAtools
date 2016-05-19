@@ -37,7 +37,7 @@
   * 申请百度Hi，关联办公邮箱
   * 第二天收到HR发送到个人邮箱的ERP账号，登陆ERP系统，修改密码，此密码也是办公邮箱密码
   * 配置OutLook或者Foxmail(登陆密码是ERP密码)
-  * 申请[bug系统](http://iku.iduoku.cn/) - **禅道**的权限，找**董文**添加权限(登陆密码是开机密码，即LDAP密码)
+  * 申请[bug系统](http://iku.iduoku.cn/) - **禅道**的权限，找**刘蕊**添加权限(登陆密码是开机密码，即LDAP密码)
   * 申请[doc系统](http://doc.iduoku.cn/) - **Atlassian Confluence**的权限，找**OP-任晓冲**添加权限(登陆密码是开机密码，即LDAP密码)
   * 申请[task系统](http://task.iduoku.cn/) - **Atlassian JIRA**的权限，找**OP-任晓冲**添加权限(登陆密码是开机密码，即LDAP密码)
   * 申请[版本控制系统](http://gitlab.iduoku.cn/) - **gitlab**的权限，找**孙国磊**添加权限(登陆密码是开机密码，即LDAP密码)
@@ -71,4 +71,3 @@
 ### [004_Appium在linux上初步使用](http://gitlab.iduoku.cn/QA/firstStation/blob/master/appium/004_Appium%E5%9C%A8linux%E4%B8%8A%E5%88%9D%E6%AD%A5%E4%BD%BF%E7%94%A8.md)
 
 ## Docker文档
-
